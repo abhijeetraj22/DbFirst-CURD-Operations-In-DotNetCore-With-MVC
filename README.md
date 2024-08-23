@@ -1,1 +1,1 @@
-# CURD-Operations-In-DotNetCore-With-MVC
+# CURD Operations In DotNetCore With MVC
